@@ -11,6 +11,7 @@ import io.reactivex.disposables.Disposable;
 import io.reactivex.schedulers.Schedulers;
 
 /**
+ * *******************************************************************
  * @包名 com.bawei.myapplication.model
  * @mengxuan
  * @日期2020/2/13
